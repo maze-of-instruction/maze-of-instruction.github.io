@@ -34,7 +34,7 @@ params:
 
 {{% blocks/lead color="white" %}}
 
-Maze of Instruction is a research that studies learning with the help of games. It makes you play a game, and evaluates how well the game was able to teach you things. (Add more description here)
+The study, 'Maze of Instruction', explores  how we learn with the help of games. You'll be asked to play a game, and from this we'll learn a great deal about how well (or poorly!) the game is designed.
 
 You can read the participant information [here](research_participant_information.pdf)
 
