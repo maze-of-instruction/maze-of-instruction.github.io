@@ -57,28 +57,9 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: Maze of Instruction
     params:
-      description: A Docsy example site
-  # cSpell:disable
-  no:
-    languageName: Norsk
-    contentDir: content/no
-    title: Gulldoks
-    params:
-      description: Docsy er operativsystem for skyen
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  fa:
-    languageDirection: rtl
-    languageName: 'فارسی (Persian)'
-    contentDir: content/fa
-    title: 'اسناد گلدی'
-    params:
-      description: 'یک نمونه برای پوسته داکسی'
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
-  # cSpell:enable
+      description: A study about language learning
 
 markup:
   goldmark:
@@ -148,7 +129,7 @@ params:
   github_branch: main
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
-  gcs_engine_id: d72aa9b2712488cc3
+  # gcs_engine_id: d72aa9b2712488cc3
 
   # Enable Lunr.js offline search
   offlineSearch: false
@@ -206,38 +187,12 @@ params:
   FA: <i class="fa-{1} fa-{2} text-{3} px-1"></i>
 
   links:
-    # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-    user:
-      - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
-      - name: X
-        url: https://example.org/x
-        icon: fab fa-x-twitter
-        desc: Follow us on X to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
-    # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
-      - name: Site info
-        url: /site/
-        icon: fa-solid fa-hammer
-        desc: Site build information.
-      - name: GitHub
-        url: https://github.com/google/docsy
-        icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
+      - name: Contact Researcher
+        url: mailto:kronenbm@purdue.edu
         icon: fa fa-envelope
-        desc: Discuss development issues around the project
+        desc: Email the researcher of this project
+
 
 security:
   funcs: # cspell:disable-line
