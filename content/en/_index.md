@@ -1,6 +1,6 @@
 ---
-title: Maze of Instruction
-description: A study about language learning
+title: 'Maze Of Instruction'
+description: Using Video Games to Facilitate Task-Based Instruction of Chinese as a Foreign Language
 params:
   body_class: td-navbar-links-all-active
 ---
@@ -34,7 +34,11 @@ params:
 
 {{% blocks/lead color="white" %}}
 
-The study, 'Maze of Instruction', explores  how we learn with the help of games. You'll be asked to play a game, and from this we'll learn a great deal about how well (or poorly!) the game is designed.
+The study, 'Maze Of Instruction: Using Video Games to Facilitate Task-Based Instruction of Chinese as a Foreign Language
+', explores  how we learn with the help of games. You'll be asked to play a game, and from this we'll learn a great deal about how well (or poorly!) the game is designed.
+
+The IRB protocol number is #2026-00000069. If you have questions, comments, or concerns about this research project, you can talk to one of the researchers. Please contact Melissa Kronenberger
+(kronenbm@purdue.edu) as the first point of contact, or you can contact the principal investigator, Christos Mousas (cmousas@purdue.edu).
 
 You can read the participant information [here](research_participant_information.pdf)
 
